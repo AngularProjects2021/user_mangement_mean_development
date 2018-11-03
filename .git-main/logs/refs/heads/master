@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 7ec2949472b5187b28fa8513c8c71e0dd0e97b05 admin <admin@caritor.oracle.com> 1540891424 +0530	commit (initial): first commit
+7ec2949472b5187b28fa8513c8c71e0dd0e97b05 6e3681f979f8e8fb4de6154c4e07f3c0da0ec3bc admin <admin@caritor.oracle.com> 1540891669 +0530	pull https://github.com/ahitishama/caritorcrm.git: Fast-forward
+6e3681f979f8e8fb4de6154c4e07f3c0da0ec3bc 04d5c18b69e45bbd6d9f3fca178d1f00efe67cf3 admin <admin@caritor.oracle.com> 1540891832 +0530	commit: second commit
+04d5c18b69e45bbd6d9f3fca178d1f00efe67cf3 3f8246999b916394b063ba63bf36db5c1ace6445 admin <admin@caritor.oracle.com> 1540998982 +0530	commit: login page
